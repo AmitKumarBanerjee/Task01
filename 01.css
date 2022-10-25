@@ -1,20 +1,4 @@
-<html>
-<head>
-<style>
-body {
-  background-color: linen;
+*{
+    color:red;
+    background-color: black;
 }
-
-h3 {
-  color: maroon;
-  margin-left: 40px;
-} 
-</style>
-</head>
-<body>
-
-<h3>This is a heading</h3>
-</body>
-</html>
-
-
