@@ -12,3 +12,9 @@ function removeActiveClasses(){
      panel.classList.remove('active')
     })
 }
+
+function add(x,y){
+    console.log(x+y)
+}
+
+add(4,5)
