@@ -7,10 +7,9 @@ panels.forEach((panel)=>
          panel.classList.add('active')
     })
 })
-
-
-function add(x,y){
-    console.log(x+y)
+function removeActiveClasses(){
+    panel.forEach(panel =>{
+     panel.classList.remove('active')
+    })
 }
 
-add(4,5)
