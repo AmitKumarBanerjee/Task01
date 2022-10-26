@@ -1,13 +1,5 @@
-body {
-  background-color: linen;
+
+*{
+    color:red;
+    background-color: black;
 }
-
-h3 {
-
-  color : blue;
-
-  margin-left: 40px;
-  margin-right: 30px;
-}
-
-
