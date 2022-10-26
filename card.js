@@ -9,8 +9,8 @@ panels.forEach((panel)=>
 })
 
 
-function add(x,y){
-    console.log(x+y)
+function multiply(x,y){
+    console.log(x*y)
 }
 
-add(4,5)
+multiply(4,5)
