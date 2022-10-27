@@ -1,5 +1,14 @@
 
+body {
+  background-color: red;
+}
+
+h3 {
+
+  color : yellow;
+
+
 *{
-    color:blue;
+    
     background-color: black;
 }
